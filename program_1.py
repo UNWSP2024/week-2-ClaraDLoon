@@ -1,6 +1,8 @@
-def personal_information():
-    print('...')
+#Clara Riley
+#09/11/24
+#Program 1 Personal Information
 
-
-# Line which calls the above function.
-personal_information()
+print('Clara Riley')
+print('213 E Benton St MN 56149')
+print('507-368-4318')
+print('Associate of Arts')
